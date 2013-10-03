@@ -1,0 +1,20 @@
+
+#  This library is free software; you can redistribute it and/or
+#  modify it under the terms of the GNU General Public
+#  License as published by the Free Software Foundation; either
+#  version 3.0 of the License, or (at your option) any later version.
+#
+#  The library is distributed in the hope that it will be useful,
+#  but WITHOUT ANY WARRANTY; without even the implied warranty of
+#  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+#  General Public License for more details.
+#  
+#  If you use this sourcecode as the basis for an academic publication,
+#  we ask that you cite the following paper:
+#
+#  Characterization and Computation of Local Nash Equilibria in Continuous Games
+#  by Lillian J. Ratliff, Samuel A. Burden, and S. Shankar Sastry
+#  in the 51st Allerton Conference on Communication, Computation, and Control
+#
+# (c) Sam Burden, Lily Ratliff, UC Berkeley, 2013 
+
